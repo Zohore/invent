@@ -1,0 +1,113 @@
+/* Style de toutes les pages */
+
+
+body{
+  	font-family: 'Roboto', serif;
+  	background: #fcfde9;
+}
+
+.navbar{
+  	background-color: #009933; 
+  	padding: 25px;
+  	text-align: center;
+}
+
+.navbar h4{
+	position: absolute;
+  	margin-left: auto;
+  	margin-right: auto;
+  	left: 0;
+  	right: 0;
+  	font-size: 155%;
+  	color: #ffffff;;
+}	
+.card {
+	background-color: #009933;
+  	position: absolute; 
+  	padding: 17px;
+  	margin-top: 50px;
+  	margin-left: 45px;
+  	margin-right: 45px;
+  	left: 0;
+  	right: 0;
+  	text-align: center;
+  	color: white;
+  	border-radius: 10px;
+}
+
+.card1 {
+  background-color: #009933;
+    position: absolute; 
+    padding: 17px;
+    margin-top: 50px;
+    margin-left: 45px;
+    margin-right: 45px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.card2 {
+  background-color: #009933;
+    position: absolute; 
+    padding: 17px;
+    margin-top: 350px;
+    margin-left: 45px;
+    margin-right: 45px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.form-text{
+  color: #fff;
+}
+
+.formulairedirecteur{
+
+  margin-top: 20px;
+}
+
+.modal-header{
+   background-color: #009933;
+   color: white;
+}
+
+
+
+.list-group-item1{
+  background-color: #fcfde9;
+  color: black;
+}
+
+.modal-body{
+  background-color: #fcfde9;
+}
+
+button[type=submit] {
+	background-color: #fcfde9;
+}
+
+.panel {
+  font: 16px "Open Sans", Helvetica, Arial, sans-serif;
+  border: 1px solid #22d;
+  padding: 12px;
+  width: 500px;
+  text-align: center;
+  margin-top: 400px;
+}
+
+.button {
+  font: 22px "Open Sans", Helvetica, Arial, sans-serif;
+  padding: 5px 36px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 175%;
+}
