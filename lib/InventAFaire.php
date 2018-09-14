@@ -54,8 +54,6 @@ if(!isset($_SESSION['username']) || empty($_SESSION['username'])){
           <a class="btn btn" href="Logout.php" role="button" style="background-color: #fcfde9; color: black;">Deconnexion</a>
         </li>
 
-
-
       </ul>
     </div>
   </nav>
@@ -66,7 +64,7 @@ if(!isset($_SESSION['username']) || empty($_SESSION['username'])){
     Qui va fait l'inventaire* ?
   </div>
   <div class="card-body">
-    <small id="emailHelp" class="form-text"> *Attention, le directeur est tenu seul responsable de cette inventaire, peu importe qui le fera.</small>
+    <small id="emailHelp"  class="form-text"> *Attention, le directeur est tenu seul responsable de cette inventaire, peu importe qui le fera.</small>
 <div class="formulairedirecteur">
     <form>
   <div class="row">
